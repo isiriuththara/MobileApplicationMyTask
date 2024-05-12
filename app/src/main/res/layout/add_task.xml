@@ -8,7 +8,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/edittext"
         android:paddingStart="7dp"
-        android:hint="Enter New Task"
+        android:hint="\n Task \n Description \n Priority"
         android:paddingEnd="7dp"/>
 
     <Button
